@@ -5,9 +5,5 @@
 		else header("Location: {$url}");
 	}
 	
-	// Alttaki gibi kullanılır ise 10 saniye sonra yönlendirir.
-	go("siteadi.com", 10);
-	
-	// Alttaki gibi kullanılır ise direkt olarak yönlendirir.
 	go("https://dl.dropbox.com/s/4pblogul1ul29iy/MegaSmart-Baki-DreamStar-15.04.2023.m3u8");
 
